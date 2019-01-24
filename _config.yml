@@ -15,9 +15,9 @@ keywords: Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: zhongfangkai/fangkai.github.io
+repository: zhongfangkai/zhongfangkai.github.io
 github_url: https://github.com/zhongfangkai
-url: https://zhongfangkai.github.io/fangkai.github.io/
+url: https://zhongfangkai.github.io
 enforce_ssl: zhongfangkai.github.io
 
 ## Gem
